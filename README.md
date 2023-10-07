@@ -1,4 +1,4 @@
-# DrivingDiffuison
+# DrivingDiffusion
 The first multi-view driving scene video generator
 
 ## [Project Page](https://drivingdiffusion.github.io) | [Paper](https://arxiv.org/pdf/xxx.pdf)
