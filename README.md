@@ -1,10 +1,10 @@
 # DrivingDiffusion
-The first multi-view driving scene video generator
+The first multi-view driving scene video generator.
 
 ## [Project Page](https://drivingdiffusion.github.io) | [Paper](https://arxiv.org/pdf/xxx.pdf)
 
 <img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/main.png">
-
+<img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/inference.png">
 
 
 # Abstract 
@@ -16,9 +16,11 @@ With the increasing popularity of autonomous driving based on the powerful and u
 # News
 - **[2023/9/20]** Repository Initialization.
 
-# Visualization
+# Results
 
+# Usage
+Coming soon...
 
-# Bibtex
+# Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 
