@@ -23,9 +23,10 @@ With the increasing popularity of autonomous driving based on the powerful and u
 </div>
 
 
+
 **Multi-View Video Generation of Driving Scenes Controlled by 3D Layout**
 
-[Project Page](https://drivingdiffusion.github.io) 
+[Videos](https://drivingdiffusion.github.io) 
 
 
 ## Usage
