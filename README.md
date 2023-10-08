@@ -25,7 +25,7 @@ pip install -r requirements.txt
 **DrivingDiffusion** is training on 8 A100. 
 
 ## Weight
-We use the **stable-diffsuion-v1-4** initial weights and base structure. Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input. For more information about how Stable Diffusion functions, please have a look at 🤗's Stable Diffusion with 🧨Diffusers blog, which you can find at [**HuggingFace**](https://huggingface.co/CompVis/stable-diffusion-v1-4.).
+We use the **stable-diffsuion-v1-4** initial weights and base structure. Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input. For more information about how Stable Diffusion functions, please have a look at 🤗's Stable Diffusion with 🧨Diffusers blog, which you can find at [**HuggingFace**](https://huggingface.co/CompVis/stable-diffusion-v1-4)
 
 ## Usage
 ### Training
