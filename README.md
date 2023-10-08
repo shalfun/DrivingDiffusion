@@ -19,17 +19,17 @@ With the increasing popularity of autonomous driving based on the powerful and u
 ## Results
 **Visualization of control capability of DrivingDiffusion.**
 <div align="center">   
-https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/control.png
+<img width="907" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/control.png">
 </div>
 
 **Multi-View Video Generation of Driving Scenes Controlled by 3D Layout on nuScenes.**
 <div align="center">   
-https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/videos/1.mp4
+<video width="907" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/videos/1.mp4">
 </div>
 
 **Multi-View Video Generation of Driving Scenes Controlled by 3D Layout on private dataset**
 <div align="center">   
-https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/videos/private_1.mp4
+<video width="907" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/videos/private_1.mp4">
 </div>
 
 
