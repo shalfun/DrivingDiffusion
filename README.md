@@ -23,9 +23,11 @@ With the increasing popularity of autonomous driving based on the powerful and u
 </div>
 
 **Multi-View Video Generation of Driving Scenes Controlled by 3D Layout on nuScenes.**
-<div align="center">   
-<video width="907" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/videos/1.mp4">
-</div>
+
+<video width="907" controls>  
+  <source src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/videos/1.mp4" type="video/mp4">  
+  Your browser does not support the video tag.  
+</video>
 
 **Multi-View Video Generation of Driving Scenes Controlled by 3D Layout on private dataset**
 <div align="center">   
