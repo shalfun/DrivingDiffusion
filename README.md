@@ -17,12 +17,12 @@ With the increasing popularity of autonomous driving based on the powerful and u
 - **[2023/9/20]** Repository Initialization.
 
 ## Results
-#### **Visualization of control capability of DrivingDiffusion.**
+### Visualization of control capability of DrivingDiffusion.
 <div align="center">   
 <img width="907" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/control.png">
 </div>
 
-#### **Multi-View Video Generation of Driving Scenes Controlled by 3D Layout**
+### Multi-View Video Generation of Driving Scenes Controlled by 3D Layout
 
 [Videos](https://drivingdiffusion.github.io) 
 
