@@ -16,6 +16,24 @@ With the increasing popularity of autonomous driving based on the powerful and u
 ## News
 - **[2023/9/20]** Repository Initialization.
 
+## Setup Environment
+``` 
+conda create -n dridiff python=3.8
+conda activate dridiff
+pip install -r requirements.txt
+``` 
+**DrivingDiffusion** is training on 8 A100. 
+
+## Weight
+We use the **stable-diffsuion-v1-4** initial weights and base structure. Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input. For more information about how Stable Diffusion functions, please have a look at 🤗's Stable Diffusion with 🧨Diffusers blog, which you can find at [**HuggingFace**](https://huggingface.co/CompVis/stable-diffusion-v1-4.).
+
+## Usage
+### Training
+Coming soon...
+### Inference
+Coming soon...
+
+
 ## Results
 ### Visualization of control capability of DrivingDiffusion.
 <div align="center">   
@@ -27,8 +45,7 @@ With the increasing popularity of autonomous driving based on the powerful and u
 [**Videos**](https://drivingdiffusion.github.io) 
 
 
-## Usage
-Coming soon...
+
 
 ## Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
