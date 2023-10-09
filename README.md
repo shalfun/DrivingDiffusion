@@ -10,7 +10,7 @@ The first multi-view driving scene video generator.
 <img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/inference.png">
 
 ### [DrivingDiffusion-Future] Future Generate Pipeline
-<img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/future_pipe2.png">
+<img width="880" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/future_pipe2.png">
 
 
 ## Abstract 
