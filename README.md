@@ -19,10 +19,14 @@ With the increasing popularity of autonomous driving based on the powerful and u
 <img width="907" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/intro.png">
 
 
-## News
-- **[2023/9/20]** Repository Initialization.
+## News&Logs
+- **[2023/8/15]** Single-View future generation.
+- **[2023/5/18]** Multi-View video generation controlled by 3D Layout.
+- **[2023/3/01]** Multi-View image generation controlled by 3D Layout.
+- **[2023/3/01]** Single-View image generation controlled by 3D Layout.
+- **[2023/2/03]** Single-View image generation controlled by Laneline Layout.
 
-- 
+
 ## Usage
 
 ### Setup Environment
