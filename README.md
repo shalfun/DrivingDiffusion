@@ -3,8 +3,14 @@ The first multi-view driving scene video generator.
 
 ## [Project Page](https://drivingdiffusion.github.io) | [Paper](https://arxiv.org/pdf/xxx.pdf)
 
+### [DrivingDiffusion] Training Pipeline
 <img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/main.png">
+
+### [DrivingDiffusion] Long Video Generate Pipeline
 <img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/inference.png">
+
+### [DrivingDiffusion-Future] Future Generate Pipeline
+<img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/future_pipe2.png">
 
 
 ## Abstract 
