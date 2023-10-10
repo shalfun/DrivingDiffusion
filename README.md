@@ -6,8 +6,8 @@ The first multi-view driving scene video generator.
 ### [DrivingDiffusion] Training Pipeline
 <img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/main.png">
 
-**Consistency Module & Local Prompt
-**
+Consistency Module & Local Prompt
+
 <img width="500" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/detail.png">
 
 ### [DrivingDiffusion] Long Video Generate Pipeline
