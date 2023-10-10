@@ -52,9 +52,9 @@ Coming soon...
 
 
 ## Results
-### Visualization of text control capability of DrivingDiffusion.
+### Visualization of multi-view image generation of DrivingDiffusion.
 <div align="center">   
-<img width="800" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/multiview_img.png">
+<img width="750" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/multiview_img.png">
 </div>
 
 ### Visualization of layout control capability of DrivingDiffusion.
