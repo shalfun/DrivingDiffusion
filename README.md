@@ -14,7 +14,7 @@ Consistency Module & Local Prompt
 <img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/inference.png">
 
 ### [DrivingDiffusion-Future] Future Generate Pipeline
-<img width="800" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/future_pipe2.png">
+<img width="780" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/future_pipe2.png">
 
 
 ## Abstract 
