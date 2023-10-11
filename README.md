@@ -56,12 +56,17 @@ Coming soon...
 
 
 ## Results
-### Visualization of Multi-View image generation of DrivingDiffusion.
+### Visualization of Multi-View Image Generation.
 <div align="center">   
 <img width="750" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/multiview_img.png">
 </div>
 
-### Visualization of control capability of DrivingDiffusion.
+### Visualization of Temporal Generation.
+<div align="center">   
+<img width="750" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/temporal_img.png">
+</div>
+
+### Visualization of Control Capability.
 <div align="center">   
 <img width="907" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/control.png">
 </div>
@@ -70,7 +75,7 @@ Coming soon...
 
 [**Videos**](https://drivingdiffusion.github.io) 
 
-### The ability to construct the future
+### Ability to Construct future
 #### Control future video generation through text description of road conditions
 <div align="center">   
 <img width="907" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/future.png">
