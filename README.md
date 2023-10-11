@@ -63,7 +63,7 @@ Coming soon...
 
 ### Visualization of Temporal Generation.
 <div align="center">   
-<img width="750" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/temporal_img.png">
+<img width="750" alt="abs" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/temporal_img_f.png">
 </div>
 
 ### Visualization of Control Capability.
