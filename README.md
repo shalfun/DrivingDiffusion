@@ -87,7 +87,7 @@ Coming soon...
 </div>
 
 ## Citation
-If this work is helpful for your research, please consider citing the following BibTeX entry.
+If DrivingDiffusion is useful or relevant to your research, please kindly recognize our contributions by citing our paper:
 ```
 @article{li2023drivingdiffusion,
       title={DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model}, 
