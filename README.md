@@ -1,7 +1,7 @@
 # DrivingDiffusion
 The first multi-view driving scene video generator.
 
-## [Project Page](https://drivingdiffusion.github.io) | [Paper](https://arxiv.org/pdf/xxx.pdf)
+## [Project Page](https://drivingdiffusion.github.io) | [Paper](https://arxiv.org/pdf/2310.07771.pdf)
 
 ### [DrivingDiffusion] Training Pipeline
 <img width="907" alt="main" src="https://github.com/DrivingDiffusion/DrivingDiffusion.github.io/blob/main/static/images/main.png">
