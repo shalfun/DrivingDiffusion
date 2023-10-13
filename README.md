@@ -88,4 +88,12 @@ Coming soon...
 
 ## Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
+```
+@article{li2023drivingdiffusion,
+      title={DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model}, 
+      author={Xiaofan Li and Yifu Zhang and Xiaoqing Ye},
+      journal={arXiv preprint arXiv:2310.07771},
+      year={2023}
+}
+```
 
